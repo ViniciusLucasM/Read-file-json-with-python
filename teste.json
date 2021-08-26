@@ -1,0 +1,19 @@
+{
+    "Detalhes": [
+        {
+            "nome": "Vinicius Lucas Mesquita",
+            "email": "viniciuslucas@mageuni.com",
+            "cargo": "Programador Junior"
+        },
+        {
+            "nome": "César Felipe Leite Galvani",
+            "email": "cesargalvani@mageuni.com",
+            "cargo": "Dono"
+        },
+        {
+            "nome": "Jhonathan Silva",
+            "email": "jhonathansilva@mageuni.com",
+            "cargo": "ProgramadorA"
+        }
+    ]
+}
